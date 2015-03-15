@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PHN Maven Webapp"
+  id="myeclipse.1426335142016"
+  context-root="/PHN"
+  j2ee-spec="1.7"
+  archive="PHN Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
